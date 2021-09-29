@@ -23,17 +23,17 @@ body {
   --color-dracula-bg: #282a36;
   --color-dracula-text: #f8f8f2;
 
-  --spacing-small: 16px;
-  --spacing-medium: 32px;
-  --spacing-large: 48px;
-  --spacing-xlarge: 64px;
-  --spacing-xxlarge: 96px;
+  --spacing-small: 1rem;
+  --spacing-medium: 2rem;
+  --spacing-large: 3rem;
+  --spacing-xlarge: 4rem;
+  --spacing-xxlarge: 6rem;
 
   padding: var(--spacing-small) var(--spacing-medium);
   margin: 0;
 
   font-family: var(--font-body), serif;
-  font-size: 1.15em;
+  font-size: 18px;
   background-color: var(--color-background--light);
 }
 
@@ -97,7 +97,7 @@ p code {
 }
 
 .readable {
-  max-width: 40em;
+  max-width: 50rem;
 }
 
 .spacer {
@@ -110,6 +110,16 @@ p code {
 
 .spacer--xxl {
   margin: var(--spacing-xxlarge) 0;
+}
+
+.subtle-list {
+  list-style: none;
+  margin-inline: 0;
+  padding-inline: 0;
+}
+
+.subtle-list li {
+  margin: 1rem;
 }
 
 /*
