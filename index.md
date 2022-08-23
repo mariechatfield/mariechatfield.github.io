@@ -13,7 +13,7 @@ permalink: /
 
 Some of Marie's specialties include:
 
-- **Planning and delivering complex projects with deep user impact**,ahead of schedule and with product-focused adjustments as needed to build the right feature at the right time.
+- **Planning and delivering complex projects with deep user impact**, ahead of schedule and with product-focused adjustments as needed to build the right feature at the right time.
 - **Relentlessly advocating for the user** in all product decisions, from accessibility and privacy concerns to consistent and intuitive features and flows.
 - **Cultivating engaging, welcoming communities** within and across teams at companies of all sizes—where learning in public, celebrating each other's wins, and maintaining healthy work-life boundaries are encouraged.
 
