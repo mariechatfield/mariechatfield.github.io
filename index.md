@@ -23,5 +23,3 @@ Marie is also an experienced conference speaker and specializes in technical dee
 
 </div>
 </div>
-</div>
-</div>
