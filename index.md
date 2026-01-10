@@ -9,7 +9,7 @@ permalink: /
   </div>
   <div class="content__section__text content__section__text--align-title" markdown="block">
 
-**Marie Chatfield Rivas** _(they/them)_ is a product-focused staff engineer with expertise in holistic feature delivery and knowledge sharing. They are passionate about creating inclusive experiences and empowering others to understand foundational web technologies at a deeper level.
+**Marie Chatfield Rivas** _(they/them)_ is a software engineer who ships delightful, complex products while elevating team cohesion and capacity. They are passionate about creating inclusive experiences and empowering others to understand foundational web technologies at a deeper level.
 
 Some of Marie's specialties include:
 
@@ -23,19 +23,5 @@ Marie is also an experienced conference speaker and specializes in technical dee
 
 </div>
 </div>
-
-<div class="content__section">
-<div class="align-center readable" markdown="block">
-<hr class="spacer--lg" />
-
-**👋 On a more personal note...**
-
-<ul class="subtle-list">
-  <li><big>✨</big> I love whimsy of all sorts and emojis in particular.</li>
-  <li><big>🪴</big> I love nature strolling, bluebonnets, romance novels, cute video games, and well-organized recipe taxonomies.</li>
-  <li><big>🕊</big> I am deeply optimistic about inclusive, intentional communities of faith organized around justice advocacy, mutual aid, and the abiding love of Jesus.</li>
-  <li><big>💁🏻‍♀️</big> I started <a href="https://dear.mariechatfield.com">an advice column</a> on a whim.</li>
-  <li><big>🐻</big> I live with a standard poodle that looks like a muppet and a deeply beloved spouse.</li>
-</ul>
 </div>
 </div>
